@@ -2,65 +2,67 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 <name>Terminals</name>
-<Snippet maxLines="2">Created 07/08/2018 14:40:11</Snippet>
+<Snippet maxLines="2">Created 07/08/2018 14:41:11</Snippet>
 <Folder>
 <name>Terminals</name>
 <Placemark><name>GSL01</name><description>201801 DWS
-posicio de les: 07/08/2018 14:38:30</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.11235761642456,41.5022170543671,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:30</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.11243271827698,41.5023994445801,0</coordinates></Point></Placemark>
 <Placemark><name>GEM03</name><description>202003 GEM
-posicio de les: 07/08/2018 14:38:38</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.11131691932678,41.5025925636292,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:38</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.11124181747437,41.5026354789734,0</coordinates></Point></Placemark>
 <Placemark><name>202005</name><description>202005 GEM
 posicio de les: 07/08/2018 14:40:12</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.68968439102173,41.2439525127411,0</coordinates></Point></Placemark>
 <Placemark><name>03090</name><description>203090 GRAE
-posicio de les: 07/08/2018 14:40:13</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.70121788978577,41.3292038440704,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:13</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.67407393455505,41.3294720649719,0</coordinates></Point></Placemark>
 <Placemark><name>03092</name><description>203092 GRAE
-posicio de les: 07/08/2018 14:40:02</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.70542359352112,41.3296329975128,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:12</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.67715311050415,41.3282811641693,0</coordinates></Point></Placemark>
+<Placemark><name>203451</name><description>203451 GRAE
+posicio de les: 07/08/2018 14:41:12</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.11154222488403,41.5020346641541,0</coordinates></Point></Placemark>
 <Placemark><name>GRAF01</name><description>204013 P.REC
-posicio de les: 07/08/2018 14:39:49</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.71090602874756,41.3319933414459,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:49</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.68431997299194,41.3276159763336,0</coordinates></Point></Placemark>
 <Placemark><name>UTGRAF16</name><description>204016 P.REC
-posicio de les: 07/08/2018 14:39:40</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.84045672416687,41.7445492744446,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:45</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.82214260101318,41.7409765720367,0</coordinates></Point></Placemark>
 <Placemark><name>UTGRAFBASE</name><description>204020 P.REG
-posicio de les: 07/08/2018 14:39:58</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.71020865440369,41.3315320014954,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:52</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.68290376663208,41.3275408744812,0</coordinates></Point></Placemark>
 <Placemark><name>04091</name><description>204091 
-posicio de les: 07/08/2018 14:40:11</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.83035016059875,41.7451393604279,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:11</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.81046962738037,41.7391741275787,0</coordinates></Point></Placemark>
 <Placemark><name>04094</name><description>204094 
-posicio de les: 07/08/2018 14:40:06</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.28911256790161,41.3521313667297,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:10</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.29629015922546,41.3607573509216,0</coordinates></Point></Placemark>
 <Placemark><name>GGRAF07</name><description>204207 P.UT
-posicio de les: 07/08/2018 14:40:03</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.91529297828674,42.0376718044281,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:03</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.90092706680298,42.0342171192169,0</coordinates></Point></Placemark>
 <Placemark><name>04290</name><description>204290 
-posicio de les: 07/08/2018 14:40:09</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.91408061981201,42.0373606681824,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:09</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.89915680885315,42.0337772369385,0</coordinates></Point></Placemark>
 <Placemark><name>04291</name><description>204291 
-posicio de les: 07/08/2018 14:40:11</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.91388750076294,42.0373177528381,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:11</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.89906024932861,42.0337450504303,0</coordinates></Point></Placemark>
 <Placemark><name>LGRAF02</name><description>204302 P.UT
-posicio de les: 07/08/2018 14:38:58</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.889323949813843,42.1644330024719,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:56</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.888787508010864,42.1638858318329,0</coordinates></Point></Placemark>
 <Placemark><name>BGRAF12</name><description>204412 P.REC
-posicio de les: 07/08/2018 14:39:32</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.77806854248047,41.6908836364746,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:33</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.75759792327881,41.6872143745422,0</coordinates></Point></Placemark>
 <Placemark><name>04490</name><description>204490 
-posicio de les: 07/08/2018 14:40:06</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.76536560058594,41.6896712779999,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:02</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.75385355949402,41.6815602779388,0</coordinates></Point></Placemark>
 <Placemark><name>TGRAF01</name><description>204601 P.UT
-posicio de les: 07/08/2018 14:39:28</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.28673076629639,41.3434517383575,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:29</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.29042148590088,41.3569378852844,0</coordinates></Point></Placemark>
 <Placemark><name>TGRAF06</name><description>204606 P.UT
 posicio de les: 07/08/2018 14:39:32</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.28699898719788,41.3443529605865,0</coordinates></Point></Placemark>
 <Placemark><name>TGRAF08</name><description>204608 P.UT
-posicio de les: 07/08/2018 14:40:07</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.861471891403198,41.1527574062347,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:06</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.873198509216309,41.1590445041656,0</coordinates></Point></Placemark>
 <Placemark><name>TGRAF12</name><description>204612 P.REC
-posicio de les: 07/08/2018 14:39:55</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.859776735305786,41.150461435318,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:56</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.871224403381348,41.1573171615601,0</coordinates></Point></Placemark>
 <Placemark><name>04691</name><description>204691 
-posicio de les: 07/08/2018 14:40:08</description><styleUrl>#w_verd</styleUrl><Point><coordinates>0.861997604370117,41.1522102355957,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:08</description><styleUrl>#w_verd</styleUrl><Point><coordinates>0.873638391494751,41.1592590808868,0</coordinates></Point></Placemark>
 <Placemark><name>05021</name><description>205021 MAER
-posicio de les: 07/08/2018 14:40:07</description><styleUrl>#w_vermellH</styleUrl><Point><coordinates>2.72400856018066,42.251068353653,2416</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:07</description><styleUrl>#w_vermellH</styleUrl><Point><coordinates>2.71796822547913,42.2562718391418,2416</coordinates></Point></Placemark>
 <Placemark><name>05051</name><description>205051 MAER
-posicio de les: 07/08/2018 14:40:06</description><styleUrl>#w_vermellH</styleUrl><Point><coordinates>1.33693099021912,41.39289021492,587</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:07</description><styleUrl>#w_vermellH</styleUrl><Point><coordinates>1.33637309074402,41.391259431839,596</coordinates></Point></Placemark>
 <Placemark><name>05060</name><description>205060 MAER
-posicio de les: 07/08/2018 14:40:03</description><styleUrl>#w_vermellH</styleUrl><Point><coordinates>1.33784294128418,41.3875043392181,779</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:03</description><styleUrl>#w_vermellH</styleUrl><Point><coordinates>1.33968830108643,41.3818502426147,834</coordinates></Point></Placemark>
 <Placemark><name>205061</name><description>205061 MAER
-posicio de les: 07/08/2018 14:40:01</description><styleUrl>#w_vermellH</styleUrl><Point><coordinates>1.33532166481018,41.3898861408234,559</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:01</description><styleUrl>#w_vermellH</styleUrl><Point><coordinates>1.3373601436615,41.3859593868256,549</coordinates></Point></Placemark>
 <Placemark><name>05082</name><description>205082 AVA
-posicio de les: 07/08/2018 14:40:09</description><styleUrl>#w_vermellA</styleUrl><Point><coordinates>1.47820830345154,41.476081609726,794</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:09</description><styleUrl>#w_vermellA</styleUrl><Point><coordinates>1.51601672172546,41.5064549446106,790</coordinates></Point></Placemark>
 <Placemark><name>05084</name><description>205084 AVA
-posicio de les: 07/08/2018 14:40:06</description><styleUrl>#w_vermellA</styleUrl><Point><coordinates>1.47300481796265,41.4680564403534,2414</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:06</description><styleUrl>#w_vermellA</styleUrl><Point><coordinates>1.5145468711853,41.5038907527924,958</coordinates></Point></Placemark>
 <Placemark><name>05085</name><description>205085 AAV
-posicio de les: 07/08/2018 14:40:12</description><styleUrl>#w_vermellA</styleUrl><Point><coordinates>1.24177694320679,41.1040484905243,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:13</description><styleUrl>#w_vermellA</styleUrl><Point><coordinates>1.22525453567505,41.0957014560699,0</coordinates></Point></Placemark>
 <Placemark><name>05178</name><description>205178 BRAVO
 posicio de les: 07/08/2018 14:40:05</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.10450410842896,41.8079996109009,0</coordinates></Point></Placemark>
 <Placemark><name>TAF00</name><description>205200 OP.COMANDAMENT
@@ -74,7 +76,7 @@ posicio de les: 07/08/2018 14:39:31</description><styleUrl>#w_verdP</styleUrl><P
 <Placemark><name>OP05020</name><description>205220 MAER
 posicio de les: 07/08/2018 14:39:57</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.80673861503601,41.9601452350616,0</coordinates></Point></Placemark>
 <Placemark><name>OP05021</name><description>205221 MAER
-posicio de les: 07/08/2018 14:39:24</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.74500489234924,42.2380650043488,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:24</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.71707773208618,42.2553813457489,0</coordinates></Point></Placemark>
 <Placemark><name>OP05022</name><description>205222 MAER
 posicio de les: 07/08/2018 14:37:05</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.7529764175415,41.7795789241791,0</coordinates></Point></Placemark>
 <Placemark><name>OP05030</name><description>205230 MAER
@@ -84,27 +86,27 @@ posicio de les: 07/08/2018 14:38:43</description><styleUrl>#w_verdP</styleUrl><P
 <Placemark><name>205240</name><description>205240 MAER
 posicio de les: 07/08/2018 14:39:46</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.97111248970032,41.5251445770264,0</coordinates></Point></Placemark>
 <Placemark><name>205241</name><description>205241 MAER
-posicio de les: 07/08/2018 14:34:57</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.04039669036865,41.0765075683594,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:57</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.0406756401062,41.0764646530151,0</coordinates></Point></Placemark>
 <Placemark><name>OP05042</name><description>205242 MAER
 posicio de les: 07/08/2018 14:38:49</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.4460244178772,41.6185283660889,0</coordinates></Point></Placemark>
 <Placemark><name>OP05051</name><description>205251 MAER
-posicio de les: 07/08/2018 14:39:47</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.33585810661316,41.3871395587921,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:47</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.33347630500793,41.3931477069855,0</coordinates></Point></Placemark>
 <Placemark><name>OP05071</name><description>205271 MAER
-posicio de les: 07/08/2018 14:38:22</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.630823373794556,41.0859596729279,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:56</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.629246234893799,41.0866355895996,0</coordinates></Point></Placemark>
 <Placemark><name>OP05081</name><description>205281 OP.AAV
-posicio de les: 07/08/2018 14:36:55</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.10683226585388,41.5174949169159,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:55</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.10681080818176,41.5174520015717,0</coordinates></Point></Placemark>
 <Placemark><name>205285</name><description>205285 OP.AAV
-posicio de les: 07/08/2018 14:39:55</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.2494695186615,41.1075353622437,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:52</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.23120903968811,41.0995423793793,0</coordinates></Point></Placemark>
 <Placemark><name>OP05087</name><description>205287 OP.AAV
 posicio de les: 07/08/2018 14:39:43</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.15837097167969,41.1479294300079,0</coordinates></Point></Placemark>
 <Placemark><name>05821</name><description>205821 BASE
 posicio de les: 07/08/2018 14:39:56</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.24269962310791,42.5185596942902,0</coordinates></Point></Placemark>
 <Placemark><name>VIEL12</name><description>208012 P.PT VARAN
-posicio de les: 07/08/2018 14:38:53</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.799169540405273,42.7007567882538,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:15</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.799169540405273,42.7007567882538,0</coordinates></Point></Placemark>
 <Placemark><name>VIEL17</name><description>208017 BASE CCA VARAN
-posicio de les: 07/08/2018 14:39:07</description><styleUrl>#w_groc</styleUrl><Point><coordinates>0.796540975570679,42.7080416679382,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:09</description><styleUrl>#w_groc</styleUrl><Point><coordinates>0.796540975570679,42.7080416679382,0</coordinates></Point></Placemark>
 <Placemark><name>08072</name><description>208072  VARAN
-posicio de les: 07/08/2018 14:36:22</description><styleUrl>#w_groc</styleUrl><Point><coordinates>0.796701908111572,42.7078485488892,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:47</description><styleUrl>#w_groc</styleUrl><Point><coordinates>0.796701908111572,42.7078485488892,0</coordinates></Point></Placemark>
 <Placemark><name>GE0REC</name><description>210013 P.Tec REGIÓ
 posicio de les: 07/08/2018 14:38:53</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.85243010520935,41.7418348789215,0</coordinates></Point></Placemark>
 <Placemark><name>10071</name><description>210071  REGIÓ
@@ -116,7 +118,7 @@ posicio de les: 07/08/2018 14:37:54</description><styleUrl>#w_groc</styleUrl><Po
 <Placemark><name>BER57</name><description>210357 PORT.COM BER (Centre)
 posicio de les: 07/08/2018 14:39:47</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.85771942138672,42.104115486145,0</coordinates></Point></Placemark>
 <Placemark><name>CAF56</name><description>210456 PORT.COM CAF (Centre)
-posicio de les: 07/08/2018 14:36:46</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.5282154083252,41.7306661605835,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:58</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.52728199958801,41.731116771698,0</coordinates></Point></Placemark>
 <Placemark><name>CAF57</name><description>210457 PORT.COM CAF (Centre)
 posicio de les: 07/08/2018 14:39:15</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.52859091758728,41.7297434806824,0</coordinates></Point></Placemark>
 <Placemark><name>CAB56</name><description>210656 PORT.COM CAB (Centre)
@@ -124,11 +126,11 @@ posicio de les: 07/08/2018 14:39:14</description><styleUrl>#w_grocP</styleUrl><P
 <Placemark><name>MOI6</name><description>211106 PORT MOI (Centre)
 posicio de les: 07/08/2018 14:38:50</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.08767056465149,41.8111324310303,0</coordinates></Point></Placemark>
 <Placemark><name>PRA07</name><description>211407 PORT PRA (Centre)
-posicio de les: 07/08/2018 14:38:33</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.03664422035217,42.0078134536743,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:24</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.03631162643433,42.0080065727234,0</coordinates></Point></Placemark>
 <Placemark><name>11934</name><description>211934 BFP SOLS (Centre)
-posicio de les: 07/08/2018 14:36:02</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>1.51284098625183,41.9898319244385,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:02</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>1.51284098625183,41.9898319244385,0</coordinates></Point></Placemark>
 <Placemark><name>211991</name><description>211991 UPC SOLS (Centre)
-posicio de les: 07/08/2018 14:40:13</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.76493644714355,41.8036329746246,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:13</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.77719950675964,41.7958545684814,0</coordinates></Point></Placemark>
 <Placemark><name>TOR02</name><description>212002 PORT TOR (Centre)
 posicio de les: 07/08/2018 14:39:32</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.2676682472229,42.0485830307007,0</coordinates></Point></Placemark>
 <Placemark><name>12030</name><description>212030 BRP TOR (Centre)
@@ -136,7 +138,7 @@ posicio de les: 07/08/2018 14:39:27</description><styleUrl>#w_verdC</styleUrl><P
 <Placemark><name>12031</name><description>212031 BRP TOR (Centre)
 posicio de les: 07/08/2018 14:39:44</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.26684212684631,42.0482504367828,0</coordinates></Point></Placemark>
 <Placemark><name>212090</name><description>212090 UPC TOR (Centre)
-posicio de les: 07/08/2018 14:35:44</description><styleUrl>#w_groc</styleUrl><Point><coordinates>1.85178637504578,41.7412769794464,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:44</description><styleUrl>#w_groc</styleUrl><Point><coordinates>1.85172200202942,41.7413628101349,0</coordinates></Point></Placemark>
 <Placemark><name>CMC09</name><description>214509 PORT Parc X
 posicio de les: 07/08/2018 14:39:39</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.26846218109131,41.9420027732849,0</coordinates></Point></Placemark>
 <Placemark><name>CMC56</name><description>214556 PORT.COM Parc X
@@ -148,7 +150,7 @@ posicio de les: 07/08/2018 14:39:45</description><styleUrl>#w_grocP</styleUrl><P
 <Placemark><name>I220</name><description>217220 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:39:53</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.65302395820618,41.8017983436584,0</coordinates></Point></Placemark>
 <Placemark><name>I221</name><description>217221 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:15</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.68643355369568,41.687525510788,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:14</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.68632626533508,41.6874718666077,0</coordinates></Point></Placemark>
 <Placemark><name>217224</name><description>217224 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:39:42</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.99314951896667,41.9943380355835,0</coordinates></Point></Placemark>
 <Placemark><name>I225</name><description>217225 P.GUAITA GUAITA
@@ -156,27 +158,25 @@ posicio de les: 07/08/2018 14:39:26</description><styleUrl>#w_grocP</styleUrl><P
 <Placemark><name>I401</name><description>217401 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:39:27</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.54702305793762,41.8404972553253,0</coordinates></Point></Placemark>
 <Placemark><name>I417</name><description>217417 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:35</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.38880491256714,42.1045875549316,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:35</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.38869762420654,42.1045017242432,0</coordinates></Point></Placemark>
 <Placemark><name>PT-C P1</name><description>218012 P.PT SERVEIS REGIÓ
 posicio de les: 07/08/2018 14:40:03</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.85179710388184,41.7416095733643,0</coordinates></Point></Placemark>
 <Placemark><name>220035</name><description>220035  REGIÓ
-posicio de les: 07/08/2018 14:40:12</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.64656782150269,41.7423605918884,0</coordinates></Point></Placemark>
-<Placemark><name>220076</name><description>220076  REGIÓ
-posicio de les: 07/08/2018 14:34:44</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.80673861503601,41.9613790512085,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:08</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.64281272888184,41.7392385005951,0</coordinates></Point></Placemark>
 <Placemark><name>20093</name><description>220093  REGIÓ
-posicio de les: 07/08/2018 14:40:05</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.8818941116333,41.8764066696167,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:11</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.88420081138611,41.8664824962616,0</coordinates></Point></Placemark>
 <Placemark><name>AMER57</name><description>220157 PORT.COM AMER (Girona)
 posicio de les: 07/08/2018 14:37:47</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.5962495803833,42.0114612579346,0</coordinates></Point></Placemark>
 <Placemark><name>20330</name><description>220330 BRP BANY (Girona)
 posicio de les: 07/08/2018 14:39:56</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.78504490852356,42.1178483963013,0</coordinates></Point></Placemark>
 <Placemark><name>20530</name><description>220530 BRP CADA (Girona)
-posicio de les: 07/08/2018 14:36:10</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>3.28182220458984,42.2920417785645,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:10</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>3.28184366226196,42.291966676712,0</coordinates></Point></Placemark>
 <Placemark><name>CADA56</name><description>220556 PORT.COM CADA (Girona)
-posicio de les: 07/08/2018 14:38:51</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.28189730644226,42.2920846939087,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:52</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.28191876411438,42.2920417785645,0</coordinates></Point></Placemark>
 <Placemark><name>CALO01</name><description>220601 PORT CALO (Girona)
-posicio de les: 07/08/2018 14:39:25</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.88361072540283,41.8784880638123,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:26</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.88259148597717,41.8736171722412,0</coordinates></Point></Placemark>
 <Placemark><name>220656</name><description>220656 PORT.COM CALO (Girona)
-posicio de les: 07/08/2018 14:36:34</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.07463765144348,41.8523740768433,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:34</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.07463765144348,41.8523740768433,0</coordinates></Point></Placemark>
 <Placemark><name>CASS04</name><description>220804 PORT CASS (Girona)
 posicio de les: 07/08/2018 14:39:19</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.88395404815674,41.8796896934509,0</coordinates></Point></Placemark>
 <Placemark><name>CASS56</name><description>220856 PORT.COM CASS (Girona)
@@ -188,35 +188,35 @@ posicio de les: 07/08/2018 14:40:13</description><styleUrl>#w_verd</styleUrl><Po
 <Placemark><name>ESCA04</name><description>220904 PORT ESCA (Girona)
 posicio de les: 07/08/2018 14:38:21</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.12731623649597,42.11545586586,0</coordinates></Point></Placemark>
 <Placemark><name>20930</name><description>220930 BRP ESCA (Girona)
-posicio de les: 07/08/2018 14:35:51</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>3.12719821929932,42.115273475647,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:51</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>3.12721967697144,42.1152949333191,0</coordinates></Point></Placemark>
 <Placemark><name>FIGU56</name><description>221056 PORT.COM FIGU (Girona)
-posicio de les: 07/08/2018 14:37:32</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.97095417976379,42.2717535495758,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:29</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.97051429748535,42.2720539569855,0</coordinates></Point></Placemark>
 <Placemark><name>21078</name><description>221078 UE FIGU (Girona)
-posicio de les: 07/08/2018 14:35:16</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.97058939933777,42.2721612453461,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:16</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.97058939933777,42.2721183300018,0</coordinates></Point></Placemark>
 <Placemark><name>GIRO06</name><description>221106 PORT GIRO (Girona)
 posicio de les: 07/08/2018 14:39:59</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.8061056137085,41.9600701332092,0</coordinates></Point></Placemark>
 <Placemark><name>GIRO08</name><description>221108 PORT GIRO (Girona)
 posicio de les: 07/08/2018 14:38:29</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.80635237693787,41.9607031345367,0</coordinates></Point></Placemark>
 <Placemark><name>21130</name><description>221130 BRP GIRO (Girona)
-posicio de les: 07/08/2018 14:36:05</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.80703902244568,41.9604241847992,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:05</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.80703902244568,41.9604241847992,0</coordinates></Point></Placemark>
 <Placemark><name>GIRO56</name><description>221156 PORT.COM GIRO (Girona)
-posicio de les: 07/08/2018 14:39:07</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.80630946159363,41.959844827652,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:05</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.80608415603638,41.9598662853241,0</coordinates></Point></Placemark>
 <Placemark><name>21190</name><description>221190 UPC GIRO (Girona)
 posicio de les: 07/08/2018 14:40:03</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.80684590339661,41.960391998291,0</coordinates></Point></Placemark>
 <Placemark><name>HOST07</name><description>221207 PORT HOST (Girona)
 posicio de les: 07/08/2018 14:39:30</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.6247239112854,41.7480146884918,0</coordinates></Point></Placemark>
 <Placemark><name>21230</name><description>221230 BRP HOST (Girona)
-posicio de les: 07/08/2018 14:40:10</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.64631032943726,41.7423391342163,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:03</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.64261960983276,41.7394208908081,0</coordinates></Point></Placemark>
 <Placemark><name>HOST57</name><description>221257 PORT.COM HOST (Girona)
-posicio de les: 07/08/2018 14:38:23</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.63120412826538,41.7475962638855,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:08</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.64286637306213,41.7389595508575,0</coordinates></Point></Placemark>
 <Placemark><name>21330</name><description>221330 BRP JONQ (Girona)
 posicio de les: 07/08/2018 14:39:28</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.87629365921021,42.4122262001038,0</coordinates></Point></Placemark>
 <Placemark><name>JONQ56</name><description>221356 PORT.COM JONQ (Girona)
-posicio de les: 07/08/2018 14:39:02</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.87563920021057,42.4113464355469,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:08</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.87602543830872,42.4113571643829,0</coordinates></Point></Placemark>
 <Placemark><name>LLAN03</name><description>221403 PORT LLAN (Girona)
 posicio de les: 07/08/2018 14:38:48</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.15286159515381,42.3577558994293,0</coordinates></Point></Placemark>
 <Placemark><name>LLAN05</name><description>221405 PORT LLAN (Girona)
-posicio de les: 07/08/2018 14:37:12</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.153076171875,42.3574984073639,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:13</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.153076171875,42.3574984073639,0</coordinates></Point></Placemark>
 <Placemark><name>21434</name><description>221434 BFP LLAN (Girona)
 posicio de les: 07/08/2018 14:39:37</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>3.09374570846558,42.3230803012848,0</coordinates></Point></Placemark>
 <Placemark><name>LLAN57</name><description>221457 PORT.COM LLAN (Girona)
@@ -224,85 +224,85 @@ posicio de les: 07/08/2018 14:38:28</description><styleUrl>#w_verdP</styleUrl><P
 <Placemark><name>LLOR04</name><description>221504 PORT LLOR (Girona)
 posicio de les: 07/08/2018 14:39:40</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.83637166023254,41.6993916034698,0</coordinates></Point></Placemark>
 <Placemark><name>221548</name><description>221548 BUL LLOR (Girona)
-posicio de les: 07/08/2018 14:35:31</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.83592104911804,41.6994559764862,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:32</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.836092710495,41.7003464698792,0</coordinates></Point></Placemark>
 <Placemark><name>LLOR56</name><description>221556 PORT.COM LLOR (Girona)
 posicio de les: 07/08/2018 14:37:38</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.83631801605225,41.6996383666992,0</coordinates></Point></Placemark>
 <Placemark><name>221557</name><description>221557 PORT.COM LLOR (Girona)
-posicio de les: 07/08/2018 14:36:08</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.83628582954407,41.6992843151093,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:29</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.83621072769165,41.6992843151093,0</coordinates></Point></Placemark>
 <Placemark><name>MAÇA05</name><description>221605 PORT MACA (Girona)
 posicio de les: 07/08/2018 14:38:53</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.74715065956116,41.7822396755219,0</coordinates></Point></Placemark>
 <Placemark><name>21630</name><description>221630 BRP MACA (Girona)
 posicio de les: 07/08/2018 14:39:54</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.78163313865662,41.7453002929688,0</coordinates></Point></Placemark>
 <Placemark><name>21655</name><description>221655 FSV/FRQ/FER/FRM/FRA/FSA MACA (Girona)
-posicio de les: 07/08/2018 14:35:29</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.75287985801697,41.7796111106873,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:28</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.75296568870544,41.7796540260315,0</coordinates></Point></Placemark>
 <Placemark><name>21680</name><description>221680 UPCL/USL MACA (Girona)
 posicio de les: 07/08/2018 14:38:03</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.75298714637756,41.7795360088348,0</coordinates></Point></Placemark>
 <Placemark><name>ORRI04</name><description>221712 PORT OLOT (Girona)
-posicio de les: 07/08/2018 14:39:04</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.90460705757141,42.1320641040802,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:03</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.90471434593201,42.132021188736,0</coordinates></Point></Placemark>
 <Placemark><name>OLOT56</name><description>221756 PORT.COM OLOT (Girona)
-posicio de les: 07/08/2018 14:37:57</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.47317910194397,42.1897101402283,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:19</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.4743378162384,42.1900856494904,0</coordinates></Point></Placemark>
 <Placemark><name>OLOT57</name><description>221757 PORT.COM OLOT (Girona)
-posicio de les: 07/08/2018 14:36:36</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.4754536151886,42.1879184246063,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:36</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.4754536151886,42.1879184246063,0</coordinates></Point></Placemark>
 <Placemark><name>ORRI59</name><description>221759 BSAL OLOT (Girona)
-posicio de les: 07/08/2018 14:38:54</description><styleUrl>#w_grocB</styleUrl><Point><coordinates>2.90436029434204,42.1318924427032,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:53</description><styleUrl>#w_verdB</styleUrl><Point><coordinates>2.90441393852234,42.1319782733917,0</coordinates></Point></Placemark>
 <Placemark><name>PALA04</name><description>221804 PORT PALA (Girona)
-posicio de les: 07/08/2018 14:39:11</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>3.15621972084045,41.9258666038513,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:11</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>3.1561553478241,41.9257915019989,0</coordinates></Point></Placemark>
 <Placemark><name>PALA05</name><description>221805 PORT PALA (Girona)
 posicio de les: 07/08/2018 14:38:30</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.15591931343079,41.9261455535889,0</coordinates></Point></Placemark>
 <Placemark><name>PALA56</name><description>221856 PORT.COM PALA (Girona)
 posicio de les: 07/08/2018 14:39:39</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>3.15606951713562,41.9258558750153,0</coordinates></Point></Placemark>
 <Placemark><name>PALA57</name><description>221857 PORT.COM PALA (Girona)
-posicio de les: 07/08/2018 14:38:35</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.15641283988953,41.9255661964417,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:42</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.1570029258728,41.9261133670807,0</coordinates></Point></Placemark>
 <Placemark><name>21890</name><description>221890 UPC PALA (Girona)
 posicio de les: 07/08/2018 14:38:38</description><styleUrl>#w_groc</styleUrl><Point><coordinates>3.15641283988953,41.9257807731628,0</coordinates></Point></Placemark>
 <Placemark><name>22190</name><description>222190 UPC RIPO (Girona)
 posicio de les: 07/08/2018 14:37:00</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.16652750968933,42.2161781787872,0</coordinates></Point></Placemark>
 <Placemark><name>ROSE06</name><description>222206 PORT ROSE (Girona)
-posicio de les: 07/08/2018 14:38:14</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.16079020500183,42.2764956951141,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:15</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>3.16056489944458,42.276474237442,0</coordinates></Point></Placemark>
 <Placemark><name>22230</name><description>222230 BRP ROSE (Girona)
-posicio de les: 07/08/2018 14:35:37</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>3.16065073013306,42.2764849662781,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:37</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>3.16065073013306,42.2764849662781,0</coordinates></Point></Placemark>
 <Placemark><name>22231</name><description>222231 BRP ROSE (Girona)
-posicio de les: 07/08/2018 14:35:23</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>3.16072583198547,42.2765815258026,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:23</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>3.16056489944458,42.2766029834747,0</coordinates></Point></Placemark>
 <Placemark><name>ROSE56</name><description>222256 PORT.COM ROSE (Girona)
 posicio de les: 07/08/2018 14:39:13</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.16074728965759,42.276291847229,0</coordinates></Point></Placemark>
 <Placemark><name>ROSE57</name><description>222257 PORT.COM ROSE (Girona)
-posicio de les: 07/08/2018 14:38:24</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.16084384918213,42.2763776779175,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:24</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.16089749336243,42.2764849662781,0</coordinates></Point></Placemark>
 <Placemark><name>E.SCFA20</name><description>222520 PORT SCFA (Girona)
-posicio de les: 07/08/2018 14:38:31</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.66358375549316,41.8682742118835,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:31</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.66359448432922,41.8683063983917,0</coordinates></Point></Placemark>
 <Placemark><name>22630</name><description>222630 BRP TORR (Girona)
 posicio de les: 07/08/2018 14:38:07</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>3.16736698150635,42.0480787754059,0</coordinates></Point></Placemark>
 <Placemark><name>TOSS01</name><description>222701 PORT TOSS (Girona)
-posicio de les: 07/08/2018 14:39:00</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.92150497436523,41.722823381424,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:53</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.92139768600464,41.7226409912109,0</coordinates></Point></Placemark>
 <Placemark><name>TOSS05</name><description>222705 PORT TOSS (Girona)
-posicio de les: 07/08/2018 14:38:32</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.92686939239502,41.7270398139954,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:58</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.92667627334595,41.7269217967987,0</coordinates></Point></Placemark>
 <Placemark><name>22731</name><description>222731 BRP TOSS (Girona)
 posicio de les: 07/08/2018 14:37:52</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.92661190032959,41.7268681526184,0</coordinates></Point></Placemark>
 <Placemark><name>TOSS56</name><description>222756 PORT.COM TOSS (Girona)
 posicio de les: 07/08/2018 14:39:17</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.92671918869019,41.726793050766,0</coordinates></Point></Placemark>
 <Placemark><name>VALL57</name><description>222857 PORT.COM VALL (Girona)
-posicio de les: 07/08/2018 14:38:39</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.03164720535278,41.8087720870972,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:32</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.0316686630249,41.8087077140808,0</coordinates></Point></Placemark>
 <Placemark><name>CMG12</name><description>224512 PORT Parc X
-posicio de les: 07/08/2018 14:39:45</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.64782309532166,41.7440342903137,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:45</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.64320969581604,41.7417597770691,0</coordinates></Point></Placemark>
 <Placemark><name>CMG57</name><description>224557 PORT.COM Parc X
 posicio de les: 07/08/2018 14:39:35</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.07432651519775,41.8525350093842,0</coordinates></Point></Placemark>
 <Placemark><name>I300</name><description>227300 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:39:14</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.77667641639709,41.7354941368103,0</coordinates></Point></Placemark>
 <Placemark><name>I301</name><description>227301 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:27</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.92818903923035,41.7572522163391,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:26</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.92827486991882,41.7573165893555,0</coordinates></Point></Placemark>
 <Placemark><name>227303</name><description>227303 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:39:33</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.6471471786499,41.7807269096375,0</coordinates></Point></Placemark>
 <Placemark><name>I307</name><description>227307 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:40:12</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.61839389801025,41.9262206554413,0</coordinates></Point></Placemark>
 <Placemark><name>I308</name><description>227308 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:22</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.17014575004578,41.9602954387665,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:20</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>3.17028522491455,41.9608211517334,0</coordinates></Point></Placemark>
 <Placemark><name>I317</name><description>227317 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:47</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>3.09649229049683,42.3925065994263,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:47</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>3.09643864631653,42.3927104473114,0</coordinates></Point></Placemark>
 <Placemark><name>PTREG24</name><description>228024  SERVEIS REGIÓ
 posicio de les: 07/08/2018 14:37:54</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.80670642852783,41.9600594043732,0</coordinates></Point></Placemark>
 <Placemark><name>PTREG25</name><description>228025  SERVEIS REGIÓ
 posicio de les: 07/08/2018 14:38:01</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.80643820762634,41.9597268104553,0</coordinates></Point></Placemark>
 <Placemark><name>D3REG</name><description>228043  SERVEIS REGIÓ
-posicio de les: 07/08/2018 14:38:49</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.80666351318359,41.9606065750122,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:40</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.80645966529846,41.9602310657501,0</coordinates></Point></Placemark>
 <Placemark><name>D6REG</name><description>228046  SERVEIS REGIÓ
 posicio de les: 07/08/2018 14:40:08</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.80588030815125,41.9607889652252,0</coordinates></Point></Placemark>
 <Placemark><name>D0REL</name><description>230010 P.CG REGIÓ
@@ -318,39 +318,39 @@ posicio de les: 07/08/2018 14:39:09</description><styleUrl>#w_groc</styleUrl><Po
 <Placemark><name>30098</name><description>230098  REGIÓ
 posicio de les: 07/08/2018 14:36:20</description><styleUrl>#w_groc</styleUrl><Point><coordinates>0.964361429214478,42.2389984130859,0</coordinates></Point></Placemark>
 <Placemark><name>AGER02</name><description>230102 PORT AGER (Lleida)
-posicio de les: 07/08/2018 14:39:37</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.758925676345825,42.0018911361694,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:00</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.758925676345825,42.0019769668579,0</coordinates></Point></Placemark>
 <Placemark><name>30130</name><description>230130 BRP AGER (Lleida)
 posicio de les: 07/08/2018 14:39:51</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>0.759140253067017,42.0014405250549,0</coordinates></Point></Placemark>
 <Placemark><name>AGRA01</name><description>230201 PORT AGRA (Lleida)
 posicio de les: 07/08/2018 14:38:40</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.09972715377808,41.7866599559784,0</coordinates></Point></Placemark>
 <Placemark><name>ALMA01</name><description>230301 PORT ALMA (Lleida)
-posicio de les: 07/08/2018 14:39:00</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.433927774429321,41.7319858074188,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:53</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.433884859085083,41.7318999767303,0</coordinates></Point></Placemark>
 <Placemark><name>ARTE04</name><description>230504 PORT ARTE (Lleida)
 posicio de les: 07/08/2018 14:40:07</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.04464530944824,41.8930792808533,0</coordinates></Point></Placemark>
 <Placemark><name>ARTE05</name><description>230505 PORT ARTE (Lleida)
 posicio de les: 07/08/2018 14:39:42</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.04467749595642,41.8931436538696,0</coordinates></Point></Placemark>
 <Placemark><name>BALA57</name><description>230657 PORT.COM BALA (Lleida)
-posicio de les: 07/08/2018 14:38:27</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.805478096008301,41.799384355545,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:27</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.805317163467407,41.7991805076599,0</coordinates></Point></Placemark>
 <Placemark><name>BORG01</name><description>230701 PORT BORG (Lleida)
 posicio de les: 07/08/2018 14:39:35</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.845539569854736,41.507420539856,0</coordinates></Point></Placemark>
 <Placemark><name>BORG02</name><description>230702 PORT BORG (Lleida)
-posicio de les: 07/08/2018 14:37:24</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.845164060592651,41.5069591999054,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:53</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.845142602920532,41.5070343017578,0</coordinates></Point></Placemark>
 <Placemark><name>30748</name><description>230748 BUL BORG (Lleida)
 posicio de les: 07/08/2018 14:39:20</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>0.8449387550354,41.5077209472656,0</coordinates></Point></Placemark>
 <Placemark><name>BORG56</name><description>230756 PORT.COM BORG (Lleida)
-posicio de les: 07/08/2018 14:37:14</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.844681262969971,41.5070879459381,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:09</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.844670534133911,41.5070450305939,0</coordinates></Point></Placemark>
 <Placemark><name>GRAN01</name><description>231301 PORT GRAN (Lleida)
-posicio de les: 07/08/2018 14:36:17</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.66817045211792,41.3533437252045,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:18</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.66817045211792,41.3533437252045,0</coordinates></Point></Placemark>
 <Placemark><name>ISON07</name><description>231507 PORT ISON (Lleida)
-posicio de les: 07/08/2018 14:38:47</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.04910850524902,42.118889093399,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:33</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.04925870895386,42.1190392971039,0</coordinates></Point></Placemark>
 <Placemark><name>ISON56</name><description>231556 PORT.COM ISON (Lleida)
-posicio de les: 07/08/2018 14:39:21</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.04896903038025,42.1188247203827,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:04</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.04872226715088,42.1186745166779,0</coordinates></Point></Placemark>
 <Placemark><name>LLEI04</name><description>231904 PORT LLEI (Lleida)
 posicio de les: 07/08/2018 14:39:13</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.605406761169434,41.6238820552826,0</coordinates></Point></Placemark>
 <Placemark><name>POBL01</name><description>232401 PORT POBL (Lleida)
-posicio de les: 07/08/2018 14:38:20</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.964457988739014,42.2391700744629,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:18</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.964350700378418,42.2390305995941,0</coordinates></Point></Placemark>
 <Placemark><name>PONT56</name><description>232556 PORT.COM PONT (Lleida)
-posicio de les: 07/08/2018 14:36:23</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.739881992340088,42.4105632305145,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:15</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.739721059799194,42.4104988574982,0</coordinates></Point></Placemark>
 <Placemark><name>PONS01</name><description>232601 PORT PONS (Lleida)
 posicio de les: 07/08/2018 14:39:29</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.19561076164246,41.9048595428467,0</coordinates></Point></Placemark>
 <Placemark><name>PONS05</name><description>232605 PORT PONS (Lleida)
@@ -359,6 +359,8 @@ posicio de les: 07/08/2018 14:39:57</description><styleUrl>#w_verdP</styleUrl><P
 posicio de les: 07/08/2018 14:36:34</description><styleUrl>#w_groc</styleUrl><Point><coordinates>1.0447096824646,41.8928861618042,0</coordinates></Point></Placemark>
 <Placemark><name>SEU01</name><description>232901 PORT SEU (Lleida)
 posicio de les: 07/08/2018 14:39:37</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.47217869758606,42.3603737354279,0</coordinates></Point></Placemark>
+<Placemark><name>SEU07</name><description>232907 PORT SEU (Lleida)
+posicio de les: 07/08/2018 14:41:09</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.47217869758606,42.3605453968048,0</coordinates></Point></Placemark>
 <Placemark><name>TAR02</name><description>233102 PORT TAR (Lleida)
 posicio de les: 07/08/2018 14:39:25</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.14928364753723,41.6510903835297,0</coordinates></Point></Placemark>
 <Placemark><name>TAR09</name><description>233109 PORT TAR (Lleida)
@@ -370,37 +372,37 @@ posicio de les: 07/08/2018 14:39:36</description><styleUrl>#w_verdP</styleUrl><P
 <Placemark><name>EPAFTREM0</name><description>233320 PORT TREM (Lleida)
 posicio de les: 07/08/2018 14:39:53</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.04491353034973,41.8929612636566,0</coordinates></Point></Placemark>
 <Placemark><name>EPAFTREM1</name><description>233321 P.EPAF TREM (Lleida)
-posicio de les: 07/08/2018 14:38:08</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.04458093643188,41.893036365509,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:27</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.0452139377594,41.8929183483124,0</coordinates></Point></Placemark>
 <Placemark><name>FMOLL1</name><description>234507 PORT Parc X
 posicio de les: 07/08/2018 14:37:30</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.898851156234741,41.6366386413574,0</coordinates></Point></Placemark>
 <Placemark><name>FTREM59</name><description>234559 BSAL Parc X
 posicio de les: 07/08/2018 14:39:44</description><styleUrl>#w_grocB</styleUrl><Point><coordinates>0.964264869689941,42.2390413284302,0</coordinates></Point></Placemark>
 <Placemark><name>I400</name><description>237400 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:30</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.18120193481445,42.0024490356445,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:33</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.18124485015869,42.0023953914642,0</coordinates></Point></Placemark>
 <Placemark><name>I405</name><description>237405 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:39:00</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.766500234603882,42.0401394367218,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:00</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.766435861587524,42.0400428771973,0</coordinates></Point></Placemark>
 <Placemark><name>I408</name><description>237408 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:50</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.1336088180542,42.2353506088257,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:51</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.1336088180542,42.2353613376617,0</coordinates></Point></Placemark>
 <Placemark><name>I410</name><description>237410 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:57</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.951132774353027,41.3524210453033,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:58</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.951143503189087,41.3523459434509,0</coordinates></Point></Placemark>
 <Placemark><name>I411</name><description>237411 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:39:25</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.520133972167969,41.3639974594116,0</coordinates></Point></Placemark>
 <Placemark><name>I413</name><description>237413 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:39:03</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.26763343811035,42.1140074729919,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:01</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.26767635345459,42.1139109134674,0</coordinates></Point></Placemark>
 <Placemark><name>I415</name><description>237415 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:39:23</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.10522031784058,41.4997494220734,0</coordinates></Point></Placemark>
 <Placemark><name>PT2REL</name><description>238013 P.PT SERVEIS REGIÓ
-posicio de les: 07/08/2018 14:36:26</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.605406761169434,41.6239249706268,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:26</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.605406761169434,41.6239249706268,0</coordinates></Point></Placemark>
 <Placemark><name>REMN11</name><description>240011 P.Tec REGIÓ
 posicio de les: 07/08/2018 14:39:30</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.111896276474,41.5018630027771,0</coordinates></Point></Placemark>
 <Placemark><name>GE0REMN</name><description>240013 P.Tec REGIÓ
-posicio de les: 07/08/2018 14:38:57</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.67168402671814,41.6167259216309,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:05</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.67184495925903,41.6170799732208,0</coordinates></Point></Placemark>
 <Placemark><name>REMN14</name><description>240014 P.Tec REGIÓ
 posicio de les: 07/08/2018 14:36:16</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.02634453773499,41.5680813789368,0</coordinates></Point></Placemark>
 <Placemark><name>E400</name><description>240016 P.Tec REGIÓ
 posicio de les: 07/08/2018 14:38:41</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.03495979309082,41.4734637737274,0</coordinates></Point></Placemark>
 <Placemark><name>40073</name><description>240073  REGIÓ
-posicio de les: 07/08/2018 14:38:24</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.03478813171387,41.4730775356293,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:47</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.03456282615662,41.4739680290222,0</coordinates></Point></Placemark>
 <Placemark><name>40091</name><description>240091  REGIÓ
 posicio de les: 07/08/2018 14:38:42</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.11167097091675,41.5022492408752,0</coordinates></Point></Placemark>
 <Placemark><name>40093</name><description>240093  REGIÓ
@@ -408,17 +410,17 @@ posicio de les: 07/08/2018 14:37:26</description><styleUrl>#w_groc</styleUrl><Po
 <Placemark><name>40095</name><description>240095  REGIÓ
 posicio de les: 07/08/2018 14:39:09</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.42286086082459,41.5318179130554,0</coordinates></Point></Placemark>
 <Placemark><name>40240</name><description>240240 BUP BAD (Metro. Nord)
-posicio de les: 07/08/2018 14:39:50</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.23822832107544,41.4650738239288,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:09</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.24878549575806,41.4707815647125,0</coordinates></Point></Placemark>
 <Placemark><name>40290</name><description>240290 UPC BAD (Metro. Nord)
 posicio de les: 07/08/2018 14:36:55</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.02572226524353,41.5684032440186,0</coordinates></Point></Placemark>
 <Placemark><name>CAS03</name><description>240403 PORT CAS (Metro. Nord)
-posicio de les: 07/08/2018 14:38:13</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.09034204483032,41.5967059135437,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:03</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.09100723266602,41.5964698791504,0</coordinates></Point></Placemark>
 <Placemark><name>CAS06</name><description>240406 PORT CAS (Metro. Nord)
 posicio de les: 07/08/2018 14:39:53</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.09024548530579,41.5971672534943,0</coordinates></Point></Placemark>
 <Placemark><name>240430</name><description>240430 BRP CAS (Metro. Nord)
 posicio de les: 07/08/2018 14:37:45</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.09053516387939,41.596577167511,0</coordinates></Point></Placemark>
 <Placemark><name>CMGRA20</name><description>240512 PORT CER (Metro. Nord)
-posicio de les: 07/08/2018 14:38:50</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.27458834648132,41.590815782547,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:43</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.27442741394043,41.590633392334,0</coordinates></Point></Placemark>
 <Placemark><name>240556</name><description>240556 PORT.COM CER (Metro. Nord)
 posicio de les: 07/08/2018 14:37:45</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.11147785186768,41.5027105808258,0</coordinates></Point></Placemark>
 <Placemark><name>CMCERD58</name><description>240558 BSAL CER (Metro. Nord)
@@ -426,13 +428,13 @@ posicio de les: 07/08/2018 14:38:52</description><styleUrl>#w_verdB</styleUrl><P
 <Placemark><name>CMGRA16</name><description>240616 PORT GRA (Metro. Nord)
 posicio de les: 07/08/2018 14:40:10</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.27494239807129,41.59064412117,0</coordinates></Point></Placemark>
 <Placemark><name>CMGRA18</name><description>240618 PORT GRA (Metro. Nord)
-posicio de les: 07/08/2018 14:38:51</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.24128603935242,41.7026960849762,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:49</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.24125385284424,41.7026317119598,0</coordinates></Point></Placemark>
 <Placemark><name>CMGRA19</name><description>240619 PORT GRA (Metro. Nord)
-posicio de les: 07/08/2018 14:39:27</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.27468490600586,41.5903973579407,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:09</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.27450251579285,41.590461730957,0</coordinates></Point></Placemark>
 <Placemark><name>40660</name><description>240660 AEA/AES/ABA GRA (Metro. Nord)
 posicio de les: 07/08/2018 14:38:38</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.27360129356384,41.5875864028931,0</coordinates></Point></Placemark>
 <Placemark><name>MAL01</name><description>240701 PORT MAL (Metro. Nord)
-posicio de les: 07/08/2018 14:38:22</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.75439262390137,41.6448891162872,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:14</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.7544891834259,41.6449213027954,0</coordinates></Point></Placemark>
 <Placemark><name>MAL04</name><description>240704 PORT MAL (Metro. Nord)
 posicio de les: 07/08/2018 14:40:04</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.75425314903259,41.6454792022705,0</coordinates></Point></Placemark>
 <Placemark><name>240748</name><description>240748 BUL MAL (Metro. Nord)
@@ -442,15 +444,15 @@ posicio de les: 07/08/2018 14:38:24</description><styleUrl>#w_groc</styleUrl><Po
 <Placemark><name>MAT04</name><description>240904 PORT MAT (Metro. Nord)
 posicio de les: 07/08/2018 14:38:08</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.42263555526733,41.5322256088257,0</coordinates></Point></Placemark>
 <Placemark><name>CMMAT15</name><description>240915 PORT MAT (Metro. Nord)
-posicio de les: 07/08/2018 14:38:48</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.41898775100708,41.5330946445465,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:41</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.42207765579224,41.5319895744324,0</coordinates></Point></Placemark>
 <Placemark><name>40960</name><description>240960 AEA/AES/ABA MAT (Metro. Nord)
 posicio de les: 07/08/2018 14:38:47</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.4228823184967,41.5321612358093,0</coordinates></Point></Placemark>
 <Placemark><name>241048</name><description>241048 BUL MOL (Metro. Nord)
 posicio de les: 07/08/2018 14:38:45</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.20160007476807,41.5369248390198,0</coordinates></Point></Placemark>
 <Placemark><name>41090</name><description>241090 UPC MOL (Metro. Nord)
-posicio de les: 07/08/2018 14:35:53</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.2021472454071,41.5364742279053,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:53</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.2021472454071,41.5364742279053,0</coordinates></Point></Placemark>
 <Placemark><name>PIN07</name><description>241207 PORT PIN (Metro. Nord)
-posicio de les: 07/08/2018 14:38:53</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.66986012458801,41.6268968582153,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:03</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.66983866691589,41.6269075870514,0</coordinates></Point></Placemark>
 <Placemark><name>41230</name><description>241230 BRP PIN (Metro. Nord)
 posicio de les: 07/08/2018 14:37:13</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.67170548439026,41.6168224811554,0</coordinates></Point></Placemark>
 <Placemark><name>41248</name><description>241248 BUL PIN (Metro. Nord)
@@ -470,33 +472,33 @@ posicio de les: 07/08/2018 14:39:44</description><styleUrl>#w_verdP</styleUrl><P
 <Placemark><name>SAB14</name><description>241414 PORT SAB (Metro. Nord)
 posicio de les: 07/08/2018 14:40:03</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.10468649864197,41.5418922901154,0</coordinates></Point></Placemark>
 <Placemark><name>41430</name><description>241430 BRP SAB (Metro. Nord)
-posicio de les: 07/08/2018 14:35:26</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.10380673408508,41.5422463417053,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:26</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.10365653038025,41.5423321723938,0</coordinates></Point></Placemark>
 <Placemark><name>SCE03</name><description>241603 PORT SCE (Metro. Nord)
-posicio de les: 07/08/2018 14:36:59</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.67157673835754,41.6166615486145,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:28</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.67157673835754,41.6166615486145,0</coordinates></Point></Placemark>
 <Placemark><name>CMSCE11</name><description>241611 PORT SCE (Metro. Nord)
-posicio de les: 07/08/2018 14:38:40</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.50715732574463,41.6953146457672,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:34</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.50716805458069,41.695282459259,0</coordinates></Point></Placemark>
 <Placemark><name>41731</name><description>241731 BRP SLLS (Metro. Nord)
-posicio de les: 07/08/2018 14:36:01</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.42282867431641,41.5313243865967,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:01</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>2.42260336875916,41.5318608283997,0</coordinates></Point></Placemark>
 <Placemark><name>SLLS56</name><description>241756 PORT.COM SLLS (Metro. Nord)
-posicio de les: 07/08/2018 14:39:02</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.05971121788025,41.6791462898254,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:02</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.05975413322449,41.6793179512024,0</coordinates></Point></Placemark>
 <Placemark><name>241858</name><description>241858 BSAL SCG (Metro. Nord)
-posicio de les: 07/08/2018 14:36:37</description><styleUrl>#w_grocB</styleUrl><Point><coordinates>2.20932483673096,41.4634323120117,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:48</description><styleUrl>#w_verdB</styleUrl><Point><coordinates>2.21015095710754,41.4630460739136,0</coordinates></Point></Placemark>
 <Placemark><name>242040</name><description>242040 BUP TER (Metro. Nord)
-posicio de les: 07/08/2018 14:40:08</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>1.99531674385071,41.5651094913483,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:03</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>1.99802041053772,41.5664935112,0</coordinates></Point></Placemark>
 <Placemark><name>42060</name><description>242060 AEA/AES/ABA TER (Metro. Nord)
 posicio de les: 07/08/2018 14:36:44</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.01370596885681,41.5628135204315,0</coordinates></Point></Placemark>
 <Placemark><name>TOD56</name><description>242156 PORT.COM TOD (Metro. Nord)
-posicio de les: 07/08/2018 14:38:23</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.71632671356201,41.6913449764252,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:38</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.71617650985718,41.6912913322449,0</coordinates></Point></Placemark>
 <Placemark><name>I203</name><description>247203 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:39:29</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.47974514961243,41.625040769577,0</coordinates></Point></Placemark>
 <Placemark><name>I206</name><description>247206 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:40:02</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.10115671157837,41.6294288635254,0</coordinates></Point></Placemark>
 <Placemark><name>P.COLLS2</name><description>249002 PORT EXTERN REGIÓ
-posicio de les: 07/08/2018 14:39:35</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.98928713798523,41.4044344425201,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:02</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.98608994483948,41.4034366607666,0</coordinates></Point></Placemark>
 <Placemark><name>P.COLLS3</name><description>249003 PORT EXTERN REGIÓ
-posicio de les: 07/08/2018 14:38:39</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.10178971290588,41.419529914856,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:40</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.10178971290588,41.419529914856,0</coordinates></Point></Placemark>
 <Placemark><name>REMS14</name><description>250014 P.Tec REGIÓ
-posicio de les: 07/08/2018 14:39:03</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.03447699546814,41.3233244419098,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:53</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.03432679176331,41.3229274749756,0</coordinates></Point></Placemark>
 <Placemark><name>GE00REMS</name><description>250015 P.Tec REGIÓ
 posicio de les: 07/08/2018 14:39:53</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.03346848487854,41.3243222236633,0</coordinates></Point></Placemark>
 <Placemark><name>50036</name><description>250036  REGIÓ
@@ -504,13 +506,13 @@ posicio de les: 07/08/2018 14:39:17</description><styleUrl>#w_groc</styleUrl><Po
 <Placemark><name>50071</name><description>250071  REGIÓ
 posicio de les: 07/08/2018 14:38:46</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.03425168991089,41.3227558135986,0</coordinates></Point></Placemark>
 <Placemark><name>250090</name><description>250090  REGIÓ
-posicio de les: 07/08/2018 14:40:11</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.69005990028381,41.2441885471344,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:12</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.6773247718811,41.2259602546692,0</coordinates></Point></Placemark>
 <Placemark><name>50092</name><description>250092  REGIÓ
 posicio de les: 07/08/2018 14:37:50</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.61006569862366,41.5892064571381,0</coordinates></Point></Placemark>
 <Placemark><name>COL02</name><description>250302 PORT COL (Metro. Sud)
 posicio de les: 07/08/2018 14:40:01</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.8352746963501,41.6007077693939,0</coordinates></Point></Placemark>
 <Placemark><name>COL03</name><description>250303 PORT COL (Metro. Sud)
-posicio de les: 07/08/2018 14:39:34</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.83529615402222,41.598926782608,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:41</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.83525323867798,41.6008901596069,0</coordinates></Point></Placemark>
 <Placemark><name>COL05</name><description>250305 PORT COL (Metro. Sud)
 posicio de les: 07/08/2018 14:40:12</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.83534979820251,41.6007399559021,0</coordinates></Point></Placemark>
 <Placemark><name>50334</name><description>250334 BFP COL (Metro. Sud)
@@ -518,15 +520,13 @@ posicio de les: 07/08/2018 14:36:57</description><styleUrl>#w_grocC</styleUrl><P
 <Placemark><name>50390</name><description>250390 UPC COL (Metro. Sud)
 posicio de les: 07/08/2018 14:39:52</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.83513522148132,41.6003859043121,0</coordinates></Point></Placemark>
 <Placemark><name>COR56</name><description>250456 PORT.COM COR (Metro. Sud)
-posicio de les: 07/08/2018 14:36:48</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.0703113079071,41.3607680797577,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:48</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.0703113079071,41.3607680797577,0</coordinates></Point></Placemark>
 <Placemark><name>GAV09</name><description>250509 PORT GAV (Metro. Sud)
-posicio de les: 07/08/2018 14:36:53</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.96435332298279,41.3059651851654,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:53</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.96435332298279,41.3059651851654,0</coordinates></Point></Placemark>
 <Placemark><name>50531</name><description>250531 BRP GAV (Metro. Sud)
-posicio de les: 07/08/2018 14:39:59</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.03935861587524,41.3354051113129,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:01</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.04103231430054,41.3346111774445,0</coordinates></Point></Placemark>
 <Placemark><name>GAV56</name><description>250556 PORT.COM GAV (Metro. Sud)
-posicio de les: 07/08/2018 14:38:10</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.99136853218079,41.2997531890869,0</coordinates></Point></Placemark>
-<Placemark><name>GAV57</name><description>250557 PORT.COM GAV (Metro. Sud)
-posicio de les: 07/08/2018 14:34:31</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.99062824249268,41.3001394271851,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:45</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.99061751365662,41.3000214099884,0</coordinates></Point></Placemark>
 <Placemark><name>HOS06</name><description>250706 PORT HOS (Metro. Sud)
 posicio de les: 07/08/2018 14:39:35</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.10605978965759,41.3696086406708,0</coordinates></Point></Placemark>
 <Placemark><name>50890</name><description>250890 UPC IGU (Metro. Sud)
@@ -536,21 +536,21 @@ posicio de les: 07/08/2018 14:35:45</description><styleUrl>#w_verdP</styleUrl><P
 <Placemark><name>MAR01</name><description>251001 PORT MAR (Metro. Sud)
 posicio de les: 07/08/2018 14:39:36</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.90778017044067,41.4987623691559,0</coordinates></Point></Placemark>
 <Placemark><name>MAR56</name><description>251056 PORT.COM MAR (Metro. Sud)
-posicio de les: 07/08/2018 14:39:58</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.82097315788269,41.6062867641449,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:58</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.81507229804993,41.6109001636505,0</coordinates></Point></Placemark>
 <Placemark><name>MAR57</name><description>251057 PORT.COM MAR (Metro. Sud)
 posicio de les: 07/08/2018 14:38:43</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.90781235694885,41.4987730979919,0</coordinates></Point></Placemark>
 <Placemark><name>51090</name><description>251090 UPC MAR (Metro. Sud)
-posicio de les: 07/08/2018 14:40:12</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.81947112083435,41.6076278686523,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:12</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.81288361549377,41.6111469268799,0</coordinates></Point></Placemark>
 <Placemark><name>PLL07</name><description>251207 PORT PLL (Metro. Sud)
 posicio de les: 07/08/2018 14:38:20</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.08200573921204,41.3171982765198,0</coordinates></Point></Placemark>
 <Placemark><name>PLL57</name><description>251257 PORT.COM PLL (Metro. Sud)
 posicio de les: 07/08/2018 14:40:11</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.081458568573,41.3173055648804,0</coordinates></Point></Placemark>
 <Placemark><name>SBOI02</name><description>251302 PORT SBOI (Metro. Sud)
-posicio de les: 07/08/2018 14:39:12</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.03654766082764,41.3369929790497,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:30</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.04067826271057,41.3350403308868,0</coordinates></Point></Placemark>
 <Placemark><name>SBOI07</name><description>251307 PORT SBOI (Metro. Sud)
 posicio de les: 07/08/2018 14:39:33</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.03431606292725,41.3228631019592,0</coordinates></Point></Placemark>
 <Placemark><name>SBOI56</name><description>251356 PORT.COM SBOI (Metro. Sud)
-posicio de les: 07/08/2018 14:40:00</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.03939080238342,41.3355338573456,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:12</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.04212665557861,41.3338601589203,0</coordinates></Point></Placemark>
 <Placemark><name>SFE56</name><description>251556 PORT.COM SFE (Metro. Sud)
 posicio de les: 07/08/2018 14:39:27</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>2.04348921775818,41.3885450363159,0</coordinates></Point></Placemark>
 <Placemark><name>SFE57</name><description>251557 PORT.COM SFE (Metro. Sud)
@@ -560,21 +560,21 @@ posicio de les: 07/08/2018 14:37:51</description><styleUrl>#w_verdP</styleUrl><P
 <Placemark><name>51780</name><description>251780 UPCL/USL SIT (Metro. Sud)
 posicio de les: 07/08/2018 14:39:27</description><styleUrl>#w_groc</styleUrl><Point><coordinates>1.71334147453308,41.2202954292297,0</coordinates></Point></Placemark>
 <Placemark><name>ORD01</name><description>251811 PORT VIF (Metro. Sud)
-posicio de les: 07/08/2018 14:38:34</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.04296350479126,41.3883948326111,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:35</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.04296350479126,41.3883197307587,0</coordinates></Point></Placemark>
 <Placemark><name>I201</name><description>257201 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:39:02</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.71697854995728,41.5656352043152,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:03</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.71703219413757,41.5655815601349,0</coordinates></Point></Placemark>
 <Placemark><name>I215</name><description>257215 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:22</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.66413903236389,41.499137878418,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:20</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.66417121887207,41.499137878418,0</coordinates></Point></Placemark>
 <Placemark><name>I216</name><description>257216 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:24</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.51620984077454,41.4484655857086,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:23</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.51629567146301,41.4484333992004,0</coordinates></Point></Placemark>
 <Placemark><name>SCREMS3</name><description>258003 P.COMODIN SERVEIS REGIÓ
 posicio de les: 07/08/2018 14:39:46</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>2.03379034996033,41.3225948810577,0</coordinates></Point></Placemark>
 <Placemark><name>D1REMS</name><description>258041  SERVEIS REGIÓ
-posicio de les: 07/08/2018 14:39:23</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.03352212905884,41.322466135025,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:08</description><styleUrl>#w_verd</styleUrl><Point><coordinates>2.03331828117371,41.3227558135986,0</coordinates></Point></Placemark>
 <Placemark><name>RET11</name><description>260011 P.Tec REGIÓ
 posicio de les: 07/08/2018 14:39:16</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.18574023246765,41.1345291137695,0</coordinates></Point></Placemark>
 <Placemark><name>RET12</name><description>260012 P.Tec REGIÓ
-posicio de les: 07/08/2018 14:40:03</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.32874488830566,41.3789319992065,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:37</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.32750034332275,41.3845753669739,0</coordinates></Point></Placemark>
 <Placemark><name>GE600</name><description>260017 P.Tec REGIÓ
 posicio de les: 07/08/2018 14:38:50</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.32919549942017,41.3740396499634,0</coordinates></Point></Placemark>
 <Placemark><name>60071</name><description>260071  REGIÓ
@@ -582,15 +582,15 @@ posicio de les: 07/08/2018 14:36:22</description><styleUrl>#w_groc</styleUrl><Po
 <Placemark><name>260084</name><description>260084  REGIÓ
 posicio de les: 07/08/2018 14:38:05</description><styleUrl>#w_groc</styleUrl><Point><coordinates>1.04001045227051,41.0765719413757,0</coordinates></Point></Placemark>
 <Placemark><name>60092</name><description>260092  REGIÓ
-posicio de les: 07/08/2018 14:40:05</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.32756471633911,41.3819146156311,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:05</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.32975339889526,41.388738155365,0</coordinates></Point></Placemark>
 <Placemark><name>HOSP02</name><description>260502 PORT HOSP (Tarragona)
 posicio de les: 07/08/2018 14:38:32</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.919826030731201,40.9934234619141,0</coordinates></Point></Placemark>
 <Placemark><name>260508</name><description>260508 PORT HOSP (Tarragona)
 posicio de les: 07/08/2018 14:39:53</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.919868946075439,40.9936487674713,0</coordinates></Point></Placemark>
 <Placemark><name>MONT02</name><description>260602 PORT MONT (Tarragona)
-posicio de les: 07/08/2018 14:38:54</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.33274674415588,41.3816356658936,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:00</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.33346557617188,41.3826441764832,0</coordinates></Point></Placemark>
 <Placemark><name>EPAF_M4</name><description>260623 P.EPAF MONT (Tarragona)
-posicio de les: 07/08/2018 14:39:04</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.33156657218933,41.3814532756805,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:04</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.33229613304138,41.3813352584839,0</coordinates></Point></Placemark>
 <Placemark><name>60631</name><description>260631 BRP MONT (Tarragona)
 posicio de les: 07/08/2018 14:37:34</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>1.33170604705811,41.3815927505493,0</coordinates></Point></Placemark>
 <Placemark><name>60691</name><description>260691 UPC MONT (Tarragona)
@@ -606,15 +606,15 @@ posicio de les: 07/08/2018 14:39:28</description><styleUrl>#w_verdP</styleUrl><P
 <Placemark><name>SCDQ03</name><description>261003 PORT SCDQ (Tarragona)
 posicio de les: 07/08/2018 14:40:04</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.33350849151611,41.3877511024475,0</coordinates></Point></Placemark>
 <Placemark><name>SCDQ04</name><description>261004 PORT SCDQ (Tarragona)
-posicio de les: 07/08/2018 14:36:04</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.37781858444214,41.5383625030518,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:43</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.3778829574585,41.5383410453796,0</coordinates></Point></Placemark>
 <Placemark><name>61030</name><description>261030 BRP SCDQ (Tarragona)
 posicio de les: 07/08/2018 14:38:47</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>1.33356213569641,41.3875901699066,0</coordinates></Point></Placemark>
 <Placemark><name>SCDQ56</name><description>261056 PORT.COM SCDQ (Tarragona)
-posicio de les: 07/08/2018 14:37:49</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.33349776268005,41.3876438140869,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:15</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.33357286453247,41.3876760005951,0</coordinates></Point></Placemark>
 <Placemark><name>61080</name><description>261080 UPCL/USL SCDQ (Tarragona)
 posicio de les: 07/08/2018 14:38:13</description><styleUrl>#w_groc</styleUrl><Point><coordinates>1.33351922035217,41.3878154754639,0</coordinates></Point></Placemark>
 <Placemark><name>61130</name><description>261130 BRP SARR (Tarragona)
-posicio de les: 07/08/2018 14:35:33</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>1.33124470710754,41.3813996315002,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:32</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>1.331866979599,41.3814747333527,0</coordinates></Point></Placemark>
 <Placemark><name>TARR01</name><description>261201 PORT TARR (Tarragona)
 posicio de les: 07/08/2018 14:40:06</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.23759269714355,41.1573708057404,0</coordinates></Point></Placemark>
 <Placemark><name>TARR02</name><description>261202 PORT TARR (Tarragona)
@@ -622,21 +622,21 @@ posicio de les: 07/08/2018 14:39:36</description><styleUrl>#w_grocP</styleUrl><P
 <Placemark><name>61234</name><description>261234 BFP TARR (Tarragona)
 posicio de les: 07/08/2018 14:37:41</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>1.33229613304138,41.3855946063995,0</coordinates></Point></Placemark>
 <Placemark><name>61280</name><description>261280 UPCL/USL TARR (Tarragona)
-posicio de les: 07/08/2018 14:40:06</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.60932540893555,41.3036370277405,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:06</description><styleUrl>#w_verd</styleUrl><Point><coordinates>1.5939724445343,41.2899255752563,0</coordinates></Point></Placemark>
 <Placemark><name>VALS02</name><description>261302 PORT VALS (Tarragona)
 posicio de les: 07/08/2018 14:39:37</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.33278965950012,41.3825905323029,0</coordinates></Point></Placemark>
 <Placemark><name>VALS05</name><description>261305 PORT VALS (Tarragona)
-posicio de les: 07/08/2018 14:34:38</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.26053094863892,41.3066518306732,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:26</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.26049876213074,41.306426525116,0</coordinates></Point></Placemark>
 <Placemark><name>61334</name><description>261334 BFP VALS (Tarragona)
 posicio de les: 07/08/2018 14:39:53</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>1.33182406425476,41.3815069198608,0</coordinates></Point></Placemark>
 <Placemark><name>VEND08</name><description>261408 PORT VEND (Tarragona)
 posicio de les: 07/08/2018 14:39:42</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.54134750366211,41.2224841117859,0</coordinates></Point></Placemark>
 <Placemark><name>VEND56</name><description>261456 PORT.COM VEND (Tarragona)
-posicio de les: 07/08/2018 14:39:10</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.54135823249817,41.2225806713104,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:27</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.54173374176025,41.2225806713104,0</coordinates></Point></Placemark>
 <Placemark><name>VLRD04</name><description>261504 PORT VLRD (Tarragona)
 posicio de les: 07/08/2018 14:39:56</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.33143782615662,41.3852620124817,0</coordinates></Point></Placemark>
 <Placemark><name>61530</name><description>261530 BRP VLRD (Tarragona)
-posicio de les: 07/08/2018 14:35:13</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>1.33139491081238,41.3852512836456,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:15</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>1.33142709732056,41.3852190971375,0</coordinates></Point></Placemark>
 <Placemark><name>VLRD56</name><description>261556 PORT.COM VLRD (Tarragona)
 posicio de les: 07/08/2018 14:40:08</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.33210301399231,41.3852941989899,0</coordinates></Point></Placemark>
 <Placemark><name>61590</name><description>261590 UPC VLRD (Tarragona)
@@ -648,33 +648,33 @@ posicio de les: 07/08/2018 14:40:12</description><styleUrl>#w_grocP</styleUrl><P
 <Placemark><name>I509</name><description>267509 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:39:07</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.714014768600464,41.2167870998383,0</coordinates></Point></Placemark>
 <Placemark><name>I513</name><description>267513 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:40</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.4751398563385,41.3150417804718,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:42</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.47507548332214,41.3150632381439,0</coordinates></Point></Placemark>
 <Placemark><name>I514</name><description>267514 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:53</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.26334190368652,41.5124952793121,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:53</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.26336336135864,41.5124952793121,0</coordinates></Point></Placemark>
 <Placemark><name>I516</name><description>267516 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:27</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.09384775161743,41.2201452255249,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:29</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.09385848045349,41.2201130390167,0</coordinates></Point></Placemark>
 <Placemark><name>SCRET</name><description>268001 P.COMODIN SERVEIS REGIÓ
-posicio de les: 07/08/2018 14:38:53</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>1.18524670600891,41.1348617076874,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:32</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>1.24048948287964,41.1791825294495,0</coordinates></Point></Placemark>
 <Placemark><name>E00RETE</name><description>270014 P.Tec REGIÓ
-posicio de les: 07/08/2018 14:38:33</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.513331890106201,40.8191871643066,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:45</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.513256788253784,40.8192086219788,0</coordinates></Point></Placemark>
 <Placemark><name>AMET07</name><description>272007 PORT AMET (Terres de l'Ebre)
 posicio de les: 07/08/2018 14:39:22</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.797806978225708,40.8902657032013,0</coordinates></Point></Placemark>
 <Placemark><name>AMPO56</name><description>272156 PORT.COM AMPO (Terres de l'Ebre)
-posicio de les: 07/08/2018 14:38:39</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.579882860183716,40.6893682479858,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:59</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.579357147216797,40.6896150112152,0</coordinates></Point></Placemark>
 <Placemark><name>ASCO05</name><description>272205 PORT ASCO (Terres de l'Ebre)
-posicio de les: 07/08/2018 14:38:40</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.568703413009644,41.1877977848053,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:39</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.568757057189941,41.1878085136414,0</coordinates></Point></Placemark>
 <Placemark><name>GAND08</name><description>272608 PORT GAND (Terres de l'Ebre)
 posicio de les: 07/08/2018 14:38:49</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.439324378967285,41.0584402084351,0</coordinates></Point></Placemark>
 <Placemark><name>72690</name><description>272690 UPC GAND (Terres de l'Ebre)
 posicio de les: 07/08/2018 14:38:03</description><styleUrl>#w_groc</styleUrl><Point><coordinates>0.73209285736084,41.0396754741669,0</coordinates></Point></Placemark>
 <Placemark><name>HORT01</name><description>272701 PORT HORT (Terres de l'Ebre)
-posicio de les: 07/08/2018 14:37:07</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.321221351623535,40.9480404853821,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:26</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.320910215377808,40.9484696388245,0</coordinates></Point></Placemark>
 <Placemark><name>MORA04</name><description>272804 PORT MORA (Terres de l'Ebre)
-posicio de les: 07/08/2018 14:38:09</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.630040168762207,41.0862171649933,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:20</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.629868507385254,41.0859596729279,0</coordinates></Point></Placemark>
 <Placemark><name>72890</name><description>272890 UPC MORA (Terres de l'Ebre)
 posicio de les: 07/08/2018 14:39:37</description><styleUrl>#w_groc</styleUrl><Point><coordinates>0.629814863204956,41.085991859436,0</coordinates></Point></Placemark>
 <Placemark><name>TIVI03</name><description>272903 PORT TIVI (Terres de l'Ebre)
-posicio de les: 07/08/2018 14:38:07</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.732007026672363,41.0397505760193,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:22</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.732039213180542,41.0398364067078,0</coordinates></Point></Placemark>
 <Placemark><name>73034</name><description>273034 BFP TORT (Terres de l'Ebre)
 posicio de les: 07/08/2018 14:39:56</description><styleUrl>#w_grocC</styleUrl><Point><coordinates>0.51511287689209,40.9733498096466,0</coordinates></Point></Placemark>
 <Placemark><name>ULLD08</name><description>273108 PORT ULLD (Terres de l'Ebre)
@@ -686,11 +686,11 @@ posicio de les: 07/08/2018 14:39:25</description><styleUrl>#w_verdP</styleUrl><P
 <Placemark><name>I503</name><description>277503 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:38:29</description><styleUrl>#w_verdP</styleUrl><Point><coordinates>0.226786136627197,40.7342898845673,0</coordinates></Point></Placemark>
 <Placemark><name>I505</name><description>277505 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:47</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.465245246887207,41.0221445560455,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:46</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.465137958526611,41.0221016407013,0</coordinates></Point></Placemark>
 <Placemark><name>I507</name><description>277507 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:40:02</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.344170331954956,40.8033514022827,0</coordinates></Point></Placemark>
 <Placemark><name>I508</name><description>277508 P.GUAITA GUAITA
-posicio de les: 07/08/2018 14:38:44</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.8624267578125,41.0919570922852,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:40:42</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.862469673156738,41.0920000076294,0</coordinates></Point></Placemark>
 <Placemark><name>I511</name><description>277511 P.GUAITA GUAITA
 posicio de les: 07/08/2018 14:39:50</description><styleUrl>#w_grocP</styleUrl><Point><coordinates>0.402106046676636,41.2307560443878,0</coordinates></Point></Placemark>
 <Placemark><name>I512</name><description>277512 P.GUAITA GUAITA
@@ -700,7 +700,7 @@ posicio de les: 07/08/2018 14:40:06</description><styleUrl>#w_grocP</styleUrl><P
 <Placemark><name>92078</name><description>292078 UE SST
 posicio de les: 07/08/2018 14:38:38</description><styleUrl>#w_groc</styleUrl><Point><coordinates>1.92692041397095,41.4822399616241,0</coordinates></Point></Placemark>
 <Placemark><name>292245</name><description>292245 BNP SST
-posicio de les: 07/08/2018 14:37:09</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.80657768249512,41.9600701332092,0</coordinates></Point></Placemark>
+posicio de les: 07/08/2018 14:41:09</description><styleUrl>#w_verdC</styleUrl><Point><coordinates>2.80657768249512,41.9600701332092,0</coordinates></Point></Placemark>
 <Placemark><name>93080</name><description>293080 UPCL/USL ESC
 posicio de les: 07/08/2018 14:39:19</description><styleUrl>#w_groc</styleUrl><Point><coordinates>2.1128511428833,41.5017020702362,0</coordinates></Point></Placemark>
 </Folder>
